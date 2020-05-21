@@ -18,13 +18,39 @@ Grove - GPS (Air530) is a high-performance, highly integrated multi-mode satelli
 
 
 
-<p style="text-align:center;"><a href="https://wiki.seeedstudio.com/Grove-GPS-Air530/"><img src="https://files.seeedstudio.com/wiki/IMAGE/May%20Week%204/gps%20new.png" alt="pir"  width="465" height="auto"></a></p>
+<p style="text-align:center;"><a href="https://wiki.seeedstudio.com/Grove-GPS-Air530/"><img src="https://files.seeedstudio.com/wiki/IMAGE/May%20Week%204/gps%20new.png" alt="pir"  width="400" height="auto"></a></p>
+
+Check the Seeed Weekly Show video below to learn about the Grove - GPS (Air530) and other cool stuff.
+
+<p style="text-align:center;"><iframe width="720" height="480" src="https://www.youtube.com/embed/ZlNeYxVzh_0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Make sure to subscribe to our [YouTube Channel](http://www.youtube.com/c/SeeedStudioSZ) to stay updated with our Seeed Weekly Show and many other exciting videos.
+
+<p style="text-align:center;"><a href="http://www.youtube.com/c/SeeedStudioSZ"><img src="https://files.seeedstudio.com/wiki/IMAGE/Youtube%20Subs.png" alt="pir"  width="180" height="auto"></a></p>
+
+### 2. Grove - Speaker Plus
+
+We released the latest version of the currently exciting Grove - Speaker and named it Grove - Speaker Plus. Compared to the last version of Grove Speaker, Grove Speaker Plus has a better quality speaker with replaceable speaker design. We have prepared a [wiki page](https://wiki.seeedstudio.com/Grove-Speaker-Plus/) for this module to help you get started quickly.
+
+<p style="text-align:center;"><a href="https://wiki.seeedstudio.com/Grove-Speaker-Plus/"><img src="https://files.seeedstudio.com/wiki/IMAGE/May%20Week%204/speaker%20plus.png" alt="pir"  width="500" height="auto"></a></p>
 
 
 
 
 
-### 2. Water Flow Sensor
+Grove Speaker Plus consists of a powerful amplifier driver board and a high-quality speaker. The speaker generates different tones with different input frequencies and it is easy to control with PWM signals. You could create distinctive sound effects, play your favourite songs, or build your own music box with easy coding and explore a large number of existing music codes.
+
+### 3. Grove - I2C Hub (6 Port)
+
+We have also prepared a [wiki page](https://wiki.seeedstudio.com/Grove-I2C-Hub-6Port/) for the Grove - I2C Hub (6 Port). 
+Grove - I2C Hub (6 Port) is an I2C expansion interface board. Compared with the previous Grove - I2C Hub, it has the same size with two more connectors at almost half the price!
+
+<p style="text-align:center;"><a href="https://wiki.seeedstudio.com/Grove-I2C-Hub-6Port/"><img src="https://files.seeedstudio.com/wiki/IMAGE/May%20Week%204/I2C%206%20port.jpg" alt="pir"  width="270" height="auto"></a></p>
+
+
+
+
+### 4. Water Flow Sensor
 
 We have had the Water Flow Sensor and now we have prepared a [wiki](https://wiki.seeedstudio.com/Water-Flow-Sensor/) page for you to easily get started with this sensor.
 
@@ -36,7 +62,7 @@ This Water flow sensor consists of a copper body, a water rotor, and a hall-effe
 
 
 
-### 3. Lipo Rider Plus
+### 5. Lipo Rider Plus
 
 We have had the Lipo Rider Plus and now we have prepared a [wiki](https://wiki.seeedstudio.com/Lipo-Rider-Plus/) page for you to easily get started with this sensor.
 
@@ -71,10 +97,6 @@ Also, don't forget to check the video below to have a glimpse of many different 
 
 <p style="text-align:center;"><iframe width="720" height="480" src="https://www.youtube.com/embed/OkszvYFP7nU" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-Make sure to subscribe to our [YouTube Channel](http://www.youtube.com/c/SeeedStudioSZ) to stay updated with our Seeed Weekly Show and many other exciting videos.
-
-<p style="text-align:center;"><a href="http://www.youtube.com/c/SeeedStudioSZ"><img src="https://files.seeedstudio.com/wiki/IMAGE/Youtube%20Subs.png" alt="pir"  width="180" height="auto"></a></p>
-
 
 
 
@@ -107,14 +129,20 @@ Ardupy support is more and more. We have added Ardupy support for Grove - Temper
 <p style="text-align:center;"><a href="https://wiki.seeedstudio.com/Grove-Temperature_Sensor_V1.2/#play-with-wio-terminal-ardupy"><img src="https://files.seeedstudio.com/wiki/Grove-Temperature_Sensor_V1.2/img/Ardupy-temp.png" alt="pir" width="700" height="auto"></a></p>
 
 
-### 7. ReSpeaker 2-Mics Pi HAT Support for NVIDIA Jetson Nano Developer Kit
+### 7. Controlling Brightness of the LCD Backlight on Wio Terminal
+
+Now you can finally adjust the brightness of the LCD Backlight of the Wio Terminal, thanks to Kenta IDA for investing the time and effort to make this possible. Check [here](https://wiki.seeedstudio.com/Wio-Terminal-LCD-Basic/#controlling-brightness-of-the-lcd-backlight) to learn more.
+This can be useful to save some power in your portable projects while using a battery with Wio Terminal.
+
+
+### 8. ReSpeaker 2-Mics Pi HAT Support for NVIDIA Jetson Nano Developer Kit
 
 ReSpeaker 2-Mics Pi HAT, which is a dual-microphone expansion board, has been there on Bazaar for a while and, we have added this Pi HAT support to the [NVIDIA Jetson Nano Developer Kit.](https://wiki.seeedstudio.com/ReSpeaker_2_Mics_Pi_HAT/#get-started-with-nvidia-jetson-nano-series) In this way, you will be able to easily realize voice recogniztion projects with the NVIDIA Jetson Nano Developer Kit.
 
 <p style="text-align:center;"><a href="https://wiki.seeedstudio.com/ReSpeaker_2_Mics_Pi_HAT/#get-started-with-nvidia-jetson-nano-series"><img src="https://files.seeedstudio.com/wiki/ReSpeaker_2_Mics_Pi_HAT/JetsonNano-2MICS.png" alt="pir"  width="800" height="auto"></a></p>
 
 
-### 8.  Windows 10 Drivers for ODYSSEY - X86J4105
+### 9.  Windows 10 Drivers for ODYSSEY - X86J4105
 
 We have newly added all the necessary drivers when using the ODYSSEY - X86J4105 with windows 10 installed. This [driver package](https://wiki.seeedstudio.com/ODYSSEY-X86J4105/#resources) will be helpful if you are missing some drivers. 
 
@@ -122,6 +150,9 @@ We have newly added all the necessary drivers when using the ODYSSEY - X86J4105 
 <hr style="border-bottom" />
 
 
+
 If you have any questions or comments, please don't hesistate to hop on to our [forum](https://forum.seeedstudio.com/latest) and discuss with us directly!
-We greatly value your feedback and opinions because we always grow and prosper together with our users and the community!
+We greatly value your feedback and opinions because we  always grow and prosper together with our users and the community!
 See you next week!
+
+
