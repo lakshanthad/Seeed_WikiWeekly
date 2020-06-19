@@ -42,6 +42,7 @@ This IR thermal camera carries a 16x12 array of thermal sensors (MLX90641) and i
 <p style="text-align:center;"><a href="https://wiki.seeedstudio.com/One-Wire-Temperature-Sensor-DS18B20/"><img src="https://files.seeedstudio.com/wiki/One-Wire-Temperature/one-wire.png" alt="pir"  width="500" height="auto"></a></p>
 
 
+
 This 2m long One Wire Temperature Sensor has a waterproof probe and long wire shape, suitable for immersive temperature detection. The chip inside this sensor is DS18B20 which is widely adopted.The original one includes three wires inside, you need to add an extra resistance to get it working. For this sensor, we adjusted it into a Grove port and has a resistor pre-assembled inside so that you can use it as a regular Grove sensor. 
 
 ### 4. How to use FreeRTOS to multi-task on Arduino?
